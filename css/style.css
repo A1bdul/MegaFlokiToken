@@ -95,7 +95,7 @@ html{overflow-x:hidden}
 body{
     color:#00000;
     letter-spacing:0;
-    font-family:'Open Sans', sans-serif;;
+    font-family:Barlow;
     overflow-x:hidden;
     position:relative;
     letter-spacing:0.25px;
@@ -106,10 +106,23 @@ button,a,input[type="submit"], input[type="button"]{
 w{outline:none!important}
 h1, h2, h3, h4, h5, h6{
     margin-bottom:20px;
-    font-family:'Open Sans', serif;
+    font-family:Barlow;
 }
-h1{font-size:36px}
-h2{font-size:32px}
+
+h1 {
+  font-size: 3.5rem;
+ }
+ 
+ @media only screen and (max-width: 400px) {
+  h1 {
+  font-size: 2rem;
+  }
+ }
+
+h2 {
+  font-size: 3.0vh;
+}
+
 h3{font-size:28px}
 h4{font-size:24px}
 h5{font-size:20px}
@@ -787,7 +800,7 @@ body div .expadding {
 .why-info > p {
     float: left;
     width: 100%;
-    font-size: 15px;
+    font-size: 1.8rem;
     color: #0000;
     line-height: 30px;
 }
@@ -911,7 +924,7 @@ body div .expadding {
     padding: 24px 40px;
 }
 .ser p {
-    font-size: 15px;
+    font-size: 1.8rem;
     line-height: 30px;
     color: #443c62;
     margin: 0;
@@ -972,7 +985,7 @@ body div .expadding {
 .whytoken > p {
     float: left;
     width: 100%;
-    font-size: 15px;
+    font-size: 1.8rem;
     color: #443c62;
     line-height: 30px;
     padding: 0 280px;
@@ -5574,7 +5587,7 @@ p.pull-right {
 .ourofficesec > p {
     float: left;
     width: 100%;
-    font-size: 15px;
+    font-size: 1.8rem;
     color: #443c62;
 }
 .ourofficesec .contactlists span > strong {
