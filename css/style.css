@@ -1,4 +1,4 @@
-a/*------------------------------------------------------------------
+/*------------------------------------------------------------------
 [Master Stylesheet]
 Project:        ICO TOKEN
 Version:        Initial
@@ -93,7 +93,7 @@ html{overflow-x:hidden}
 }
 
 body{
-    color:#555555;
+    color:#00000;
     letter-spacing:0;
     font-family:'Open Sans', sans-serif;;
     overflow-x:hidden;
@@ -116,7 +116,7 @@ h5{font-size:20px}
 h6{font-size:16px}
 p{
     color:#000000;
-    font-size:16px;
+    font-size:1.8rem;
     margin-bottom:30px;
     line-height:29px;
 }
@@ -582,7 +582,7 @@ label::after {
 .apps-btns > a {
     float: left;
     font-family: Barlow;
-    font-size: 16px;
+    font-size: 1.8rem;
     color: #ffffff;
     background: #817e96;
     padding: 9px 26px;
@@ -647,7 +647,7 @@ label::after {
     float: left;
     width: 100%;
     font-family: Barlow;
-    font-size: 16px;
+    font-size: 1.8rem;
     line-height: 30px;
     color: #ffffff;
     padding-left: 20px;
@@ -952,7 +952,7 @@ body div .expadding {
 .tkenf span {
     float: left;
     width: 100%;
-    font-size: 15px;
+    font-size: 1.8rem;
     padding: 0 30px;
     margin-top: 9px;
 }
