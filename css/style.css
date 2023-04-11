@@ -819,7 +819,7 @@ body div .expadding {
     line-height: 30px;
 }
 
-media only screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) {
 .why-info > p {
     font-size: 1.8rem;
 }
@@ -954,7 +954,7 @@ media only screen and (min-width: 768px) {
     margin: 0;
     margin-top: 5px;
 }
-media only screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) {
 .ser p {
     font-size: 1.8rem;
 }
@@ -1022,7 +1022,7 @@ media only screen and (min-width: 768px) {
     margin-bottom: 60px;
 }
 
-media only screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) {
 .whytoken > p {
     font-size: 1.8rem;
 }
@@ -1056,7 +1056,7 @@ media only screen and (min-width: 768px) {
     margin-bottom: 60px;
 }
 
-media only screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) {
 .countsec  > p {
     font-size: 1.8rem;
 }
