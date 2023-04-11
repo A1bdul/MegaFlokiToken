@@ -818,6 +818,16 @@ body div .expadding {
     color: #0000;
     line-height: 30px;
 }
+
+media only screen and (min-width: 768px) {
+.why-info > p {
+    font-size: 1.8rem;
+}
+    .why-info > h3{
+        font-size: 2.5rem;
+    }
+}
+
 .fancybtn {
     float: left;
     width: 100%;
@@ -944,6 +954,11 @@ body div .expadding {
     margin: 0;
     margin-top: 5px;
 }
+media only screen and (min-width: 768px) {
+.ser p {
+    font-size: 1.8rem;
+}
+}
 
 .tc1{background-color: #4551cc;}
 .tc2{background-color: #4747a0;}
@@ -1006,6 +1021,16 @@ body div .expadding {
     letter-spacing: 0px;
     margin-bottom: 60px;
 }
+
+media only screen and (min-width: 768px) {
+.whytoken > p {
+    font-size: 1.8rem;
+}
+    .whytoken > h3{
+        font-size :2.5rem;
+    }
+}
+
 .countsec {
     float: left;
     width: 100%;
@@ -1030,6 +1055,16 @@ body div .expadding {
     letter-spacing: 0px;
     margin-bottom: 60px;
 }
+
+media only screen and (min-width: 768px) {
+.countsec  > p {
+    font-size: 1.8rem;
+}
+    .countsec > h3 {
+        font-size: 2.5rem;
+    }
+}
+
 .countdown-soon {
     float: left;
     width: 100%;
