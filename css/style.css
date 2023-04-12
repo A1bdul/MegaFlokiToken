@@ -182,7 +182,7 @@ header {
 }
 .block {
     float: left;
-    padding: 100px 0;
+    padding: 50px 0;
     position: relative;
     width: 100%;
     z-index: 1;
@@ -820,10 +820,10 @@ body div .expadding {
 }
 
 @media only screen and (min-width: 768px) {
-.why-info > p {
-    font-size: 2.5rem;
+.why-info p {
+    font-size: 2rem;
 }
-    .why-info > h3{
+    .why-info h3{
         font-size: 3rem;
     }
 }
