@@ -837,7 +837,7 @@ body div .expadding {
 .why-info p { color : white;}
 @media only screen and (min-width: 768px) {
 .why-info{
-   margin: 15px;
+   padding: 15px;
    
 
 }
