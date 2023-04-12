@@ -783,6 +783,7 @@ label::after {
     text-align: center;
 }
     .social a{
+        float: none;
         font-size: 3rem;
     }
 }
