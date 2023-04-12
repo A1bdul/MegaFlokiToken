@@ -786,6 +786,11 @@ label::after {
         float: none;
         font-size: 3rem;
     }
+   
+}
+
+.social a i{
+      font-size: 3rem;
 }
 
 .clsec {
