@@ -838,12 +838,10 @@ body div .expadding {
 @media only screen and (min-width: 768px) {
 .why-info{
    padding: 15px;
-   
-
 }
 
 .why-info p {
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
     .why-info h3{
         font-size: 3rem;
