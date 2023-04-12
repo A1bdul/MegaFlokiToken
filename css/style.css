@@ -836,11 +836,18 @@ body div .expadding {
 }
 .why-info p { color : white;}
 @media only screen and (min-width: 768px) {
+.why-info{
+   margin: 15px;
+   
+
+}
+
 .why-info p {
     font-size: 2rem;
 }
     .why-info h3{
         font-size: 3rem;
+
     }
 }
 
