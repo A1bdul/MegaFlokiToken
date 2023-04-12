@@ -777,6 +777,16 @@ label::after {
     margin-right: 28px;
     position: relative;
 }
+
+@media only screen and (min-width: 768px) {
+.social{
+    text-align: center;
+}
+    .social a{
+        font-size: 3rem;
+    }
+}
+
 .clsec {
     float: left;
     width: 100%;
